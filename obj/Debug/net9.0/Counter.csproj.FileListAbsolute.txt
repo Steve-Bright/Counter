@@ -1,0 +1,14 @@
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\Counter.AssemblyInfoInputs.cache
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\Counter.AssemblyInfo.cs
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\Counter.csproj.CoreCompileInputs.cache
+C:\Users\105802311\Documents\Counter\bin\Debug\net9.0\Counter.exe
+C:\Users\105802311\Documents\Counter\bin\Debug\net9.0\Counter.deps.json
+C:\Users\105802311\Documents\Counter\bin\Debug\net9.0\Counter.runtimeconfig.json
+C:\Users\105802311\Documents\Counter\bin\Debug\net9.0\Counter.dll
+C:\Users\105802311\Documents\Counter\bin\Debug\net9.0\Counter.pdb
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\Counter.dll
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\refint\Counter.dll
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\Counter.pdb
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\Counter.genruntimeconfig.cache
+C:\Users\105802311\Documents\Counter\obj\Debug\net9.0\ref\Counter.dll
